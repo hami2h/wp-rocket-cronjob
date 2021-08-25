@@ -1,7 +1,7 @@
 <?php
 
 // Load WordPress.
-$folder_path = "/home/cfannip7/public_html/wp-content/cache/min/1/"; 
+$folder_path = "/home/your_username/public_html/wp-content/cache/min/1/"; 
 
 $files = glob($folder_path.'/*');  
    
